@@ -1,0 +1,41 @@
+.body{
+    border: double blue;
+    margin: 46px;
+    padding: 60px;
+}
+#header1{
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+}
+#pirmaeil {
+    display: flex;
+    text-align: left;
+    height: 33.33%;
+}
+
+.design{
+
+}
+.ecommerce{
+}
+.rank{
+
+}
+
+#header2{
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+}
+
+#antraeil {
+    display: flex;
+    text-align: left;
+}
+#header3{
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+}
+#treciaeil {
+    display: flex;
+    text-align: left;
+}
